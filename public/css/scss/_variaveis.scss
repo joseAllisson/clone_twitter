@@ -1,0 +1,9 @@
+
+$cor-principal: #1da1f2;
+$cor-bordas: #e6ecf0;
+
+@mixin flex {
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
